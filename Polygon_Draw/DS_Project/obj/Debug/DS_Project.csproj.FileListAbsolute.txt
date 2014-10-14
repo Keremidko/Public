@@ -1,0 +1,21 @@
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS\VB_Translation_Test\DS_Project\DS_Project\bin\Debug\DS_Project.dll
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS\VB_Translation_Test\DS_Project\DS_Project\bin\Debug\DS_Project.pdb
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS\VB_Translation_Test\DS_Project\DS_Project\obj\Debug\DS_Project.csprojResolveAssemblyReference.cache
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS\VB_Translation_Test\DS_Project\DS_Project\obj\Debug\DS_Project.dll
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS\VB_Translation_Test\DS_Project\DS_Project\obj\Debug\DS_Project.pdb
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS\VB_Translation_Test\DS_Project\DS_Project\obj\Debug\DS_Project.csproj.GenerateResource.Cache
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS\VB_Translation_Test\DS_Project\DS_Project\obj\Debug\DS_Project.PoligonDrawControl.resources
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS_Project\DS_Project\bin\Debug\DS_Project.dll
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS_Project\DS_Project\bin\Debug\DS_Project.pdb
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.csprojResolveAssemblyReference.cache
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.PoligonDrawControl.resources
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.csproj.GenerateResource.Cache
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.dll
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.pdb
+D:\Projects\DS_Project\DS_Project\bin\Debug\DS_Project.dll
+D:\Projects\DS_Project\DS_Project\bin\Debug\DS_Project.pdb
+D:\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.csprojResolveAssemblyReference.cache
+D:\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.PoligonDrawControl.resources
+D:\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.csproj.GenerateResource.Cache
+D:\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.dll
+D:\Projects\DS_Project\DS_Project\obj\Debug\DS_Project.pdb

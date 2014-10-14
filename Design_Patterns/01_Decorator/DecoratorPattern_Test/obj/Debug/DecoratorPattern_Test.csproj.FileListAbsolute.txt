@@ -1,0 +1,5 @@
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Test\bin\Debug\DecoratorPattern_Test.exe.config
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Test\bin\Debug\DecoratorPattern_Test.exe
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Test\bin\Debug\DecoratorPattern_Test.pdb
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Test\obj\Debug\DecoratorPattern_Test.exe
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Test\obj\Debug\DecoratorPattern_Test.pdb

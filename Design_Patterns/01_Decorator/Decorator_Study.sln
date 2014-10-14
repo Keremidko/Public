@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern_Basics", "Design_Patterns_Study\DecoratorPattern_Basics.csproj", "{375BC091-7082-437F-8C2A-FA159AAA2BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern_Photo", "01.DecoratorPattern_Photo\DecoratorPattern_Photo.csproj", "{12B77A90-8349-4CAA-ADF9-7A19A462D206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern_Stream", "DecoratorPattern_Stream\DecoratorPattern_Stream.csproj", "{180673DD-C2B2-42D7-93F4-5892CCF4D036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern_Test", "DecoratorPattern_Test\DecoratorPattern_Test.csproj", "{12627F08-2B71-4FF6-A5D9-34CFF212A6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375BC091-7082-437F-8C2A-FA159AAA2BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375BC091-7082-437F-8C2A-FA159AAA2BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375BC091-7082-437F-8C2A-FA159AAA2BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375BC091-7082-437F-8C2A-FA159AAA2BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B77A90-8349-4CAA-ADF9-7A19A462D206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B77A90-8349-4CAA-ADF9-7A19A462D206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B77A90-8349-4CAA-ADF9-7A19A462D206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B77A90-8349-4CAA-ADF9-7A19A462D206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180673DD-C2B2-42D7-93F4-5892CCF4D036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180673DD-C2B2-42D7-93F4-5892CCF4D036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180673DD-C2B2-42D7-93F4-5892CCF4D036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180673DD-C2B2-42D7-93F4-5892CCF4D036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12627F08-2B71-4FF6-A5D9-34CFF212A6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12627F08-2B71-4FF6-A5D9-34CFF212A6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12627F08-2B71-4FF6-A5D9-34CFF212A6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12627F08-2B71-4FF6-A5D9-34CFF212A6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

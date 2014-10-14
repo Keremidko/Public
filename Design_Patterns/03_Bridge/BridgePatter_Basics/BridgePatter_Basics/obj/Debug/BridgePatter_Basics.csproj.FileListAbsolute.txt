@@ -1,0 +1,1 @@
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\03_Bridge\BridgePatter_Basics\BridgePatter_Basics\bin\Debug\BridgePatter_Basics.exe.config

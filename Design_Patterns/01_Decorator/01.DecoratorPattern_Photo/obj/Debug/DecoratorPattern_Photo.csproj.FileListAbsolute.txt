@@ -1,0 +1,6 @@
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\01.DecoratorPattern_Photo\bin\Debug\01.DecoratorPattern_Photo.exe.config
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\01.DecoratorPattern_Photo\obj\Debug\01.DecoratorPattern_Photo.exe
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\01.DecoratorPattern_Photo\obj\Debug\01.DecoratorPattern_Photo.pdb
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\01.DecoratorPattern_Photo\bin\Debug\01.DecoratorPattern_Photo.exe
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\01.DecoratorPattern_Photo\bin\Debug\01.DecoratorPattern_Photo.pdb
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\01.DecoratorPattern_Photo\obj\Debug\DecoratorPattern_Photo.csprojResolveAssemblyReference.cache

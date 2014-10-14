@@ -1,0 +1,6 @@
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\04_Composite\CompositePattern_Basics\CompositePattern_Basics\bin\Debug\CompositePattern_Basics.exe.config
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\04_Composite\CompositePattern_Basics\CompositePattern_Basics\obj\Debug\CompositePattern_Basics.csprojResolveAssemblyReference.cache
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\04_Composite\CompositePattern_Basics\CompositePattern_Basics\bin\Debug\CompositePattern_Basics.exe
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\04_Composite\CompositePattern_Basics\CompositePattern_Basics\bin\Debug\CompositePattern_Basics.pdb
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\04_Composite\CompositePattern_Basics\CompositePattern_Basics\obj\Debug\CompositePattern_Basics.exe
+C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\04_Composite\CompositePattern_Basics\CompositePattern_Basics\obj\Debug\CompositePattern_Basics.pdb
