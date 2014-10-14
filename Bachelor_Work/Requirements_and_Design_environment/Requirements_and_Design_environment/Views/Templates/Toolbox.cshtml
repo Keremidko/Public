@@ -1,0 +1,72 @@
+﻿<div class="col-lg-1 height-fill no-padding rde-toolbox" ng-controller="ToolboxController">
+    <div class="btn-group-vertical">
+        <button 
+            ng-class="{active:tool.name=='Arrow'}"
+            ng-click ="setTool('Arrow')"
+            type="button" 
+            tooltip="Edit widgets"
+            tooltip-placement="right"
+            class="btn btn-default"><span class="glyphicon glyphicon-arrow-up"></span></button>
+        <button 
+            ng-class="{active:tool.name=='Hand'}"
+            ng-click ="setTool('Hand')"
+            type="button" 
+            tooltip="Move widgets"
+            tooltip-placement="right"
+            class="btn btn-default"><span class="glyphicon glyphicon-hand-up"></span></button>
+        <button 
+            ng-class="{active:tool.name=='ClassDiagram'}"
+            ng-click ="setTool('ClassDiagram')"
+            type="button" 
+            tooltip="Create class diagram"
+            tooltip-placement="right"
+            class="btn btn-default"><span class="glyphicon glyphicon-align-justify"></span></button>
+        <button 
+            ng-class="{active:tool.name=='Comment'}"
+            ng-click ="setTool('Comment')"
+            type="button" 
+            tooltip="Create note"
+            tooltip-placement="right"
+            class="btn btn-default"><span class="glyphicon glyphicon-comment"></span></button>
+        <button 
+            ng-class="{active:tool.name=='Line'}"
+            ng-click ="setTool('Line')"
+            type="button" 
+            tooltip="Create Line. Press enter to complete."
+            tooltip-placement="right"
+            class="btn btn-default"><i class="vector-path vector-path-line"></i></button>
+        <button 
+            ng-class="{active:tool.name=='Text'}"
+            ng-click ="setTool('Text')"
+            type="button" 
+            tooltip="Create text."
+            tooltip-placement="right"
+            class="btn btn-default"><span class="glyphicon glyphicon-text-width"></span></button>
+        <div dropdown class="btn-group">
+            <button 
+                type="button" 
+                ng-class="{active:tool.name=='Ellipse'||tool.name=='Square'}"
+                class="btn btn-default dropdown-toggle" 
+                data-toggle="dropdown">
+                <i class="vector-path vector-path-polygon"></i></span><span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a ng-click ="setTool('Rectangle')"><i class="vector-path vector-path-square"></i>Rectangle</a></li>
+                <li><a ng-click ="setTool('Ellipse')"><i class="vector-path vector-path-circle"></i>Ellipse</a></li>
+            </ul>
+        </div>
+        <div dropdown class="btn-group">
+            <button 
+                type="button" 
+                ng-class="{active:tool.name=='ZoomIn'||tool.name=='ZoomOut'}"
+                class="btn btn-default dropdown-toggle" 
+                data-toggle="dropdown">
+                <span class="glyphicon glyphicon-zoom-in"></span><span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a ng-click ="setTool('ZoomIn')"><span class="glyphicon glyphicon-zoom-in"></span>Zoom in</a></li>
+                <li><a ng-click ="setTool('ZoomOut')"><span class="glyphicon glyphicon-zoom-out"></span>Zoom out</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

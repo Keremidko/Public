@@ -1,0 +1,70 @@
+﻿<nav class="rde-menu navbar navbar-default navbar-static-top" role="navigation" ng-controller="MenuController">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">@*Brand*@</a>
+    </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+              <li dropdown>
+                  <a class="dropdown-toggle">Project <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                      <li><a 
+                          ng-class="{'disabled-link' : !userProfile.Logged}"
+                          ng-click="newProjectModal()"><span class="glyphicon glyphicon-briefcase"></span> New project</a></li>
+                      <li><a ng-click="openProjectModal()"><span class="glyphicon glyphicon-folder-open"></span> Open project</a></li>
+                      <li class="divider"></li>
+                      <li><a 
+                          ng-class="{'disabled-link' : !userProfile.Logged}"
+                          ng-click="manageProjectsModal()"><span class="glyphicon glyphicon-cog"></span> Manage my projects</a></li>
+                  </ul>
+              </li>
+              <li dropdown>
+                  <a 
+                      ng-disabled="!userProfile.Logged || !project.loaded" 
+                      class="dropdown-toggle" 
+                      ng-class="{'disabled-link' : !userProfile.Logged || !project.loaded}">File <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                      <li><a ng-click="addItem(project,1)"><span class="glyphicon glyphicon-folder-close"></span> New Folder</a></li>
+                      <li><a ng-click="addItem(project,2)"><span class="glyphicon glyphicon-file"></span> New Document</a></li>
+                      <li><a ng-click="addItem(project,3)"><span class="glyphicon glyphicon-picture"></span> New Diagram</a></li>
+                      <li class="divider"></li>
+                      <li><a ng-click="saveItem()"><span class="glyphicon glyphicon-floppy-disk"></span> Save</a></li>
+                  </ul> 
+              </li>
+              <li dropdown>
+                  <a class="dropdown-toggle" >Options <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                      <li><a ng-click="selectThemeModal()" >Themes</a></li>
+                  </ul>
+              </li>
+              @*<li dropdown>
+                  <a
+                      class="dropdown-toggle">About <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                      <li><a ><span class="glyphicon glyphicon-file"></span> Technologies used</a></li>
+                      <li><a ><span class="glyphicon glyphicon-picture"></span> Project</a></li>
+                      <li><a ><span class="glyphicon glyphicon-picture"></span> Author</a></li>
+                  </ul>
+              </li>*@
+              @*<li dropdown>
+                  <a class="dropdown-toggle" data-toggle="dropdown">Edit <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                      <li><a >Undo</a></li>
+                      <li><a >Redo</a></li>
+                      <li><a >Copy</a></li>
+                      <li><a >Paste</a></li>
+                  </ul>
+              </li>
+              <li><a>File</a></li>*@
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+              <li ng-if="!userProfile.Logged"><a ui-sref="Login"><span class="glyphicon glyphicon-user"></span> Login</a></li>
+              <li ng-if="userProfile.Logged"><a><span class="glyphicon glyphicon-user"></span> {{ userProfile.UserName }}</a></li>
+              <li ng-if="userProfile.Logged"><a ng-click="Logout()">Log out</a></li>
+              @*<li><a><span class="glyphicon glyphicon-comment"></span> Feedback</a> </li>*@
+          </ul>
+      </div>
+  </div>
+</nav>

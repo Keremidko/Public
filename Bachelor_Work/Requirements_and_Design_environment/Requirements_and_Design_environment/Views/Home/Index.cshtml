@@ -1,0 +1,23 @@
+﻿<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8" />
+	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	    <title>Requirements And Design Environment</title>
+        @{ string themeSource = ViewData["theme"] + ".css"; }
+        <link rel="stylesheet" type="text/css" href="/Styles/bootstrap/@themeSource">
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/tinymce")
+        @Scripts.Render("~/bundles/angular")
+        @Scripts.Render("~/bundles/app")
+        @Scripts.Render("~/bundles/app/controllers")
+        @Scripts.Render("~/bundles/app/services")
+        @Scripts.Render("~/bundles/app/filters")
+        @Scripts.Render("~/bundles/app/directives")
+        @Scripts.Render("~/bundles/app/models")
+    </head>
+    <body ng-app="RDE">
+        <div ui-view class="height-fill mainView" ng-controller="BaseController">
+        </div>
+    </body>
+</html>

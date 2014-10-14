@@ -1,0 +1,34 @@
+﻿<div>
+    <div class="modal-header">Create new project</div>
+    <div class="modal-body">
+        <div class="col-lg-12">
+            <alert ng-if="serverError" type="danger" close="closeAlert()"><b>Error!</b> {{ serverMessage }}</alert>
+            @*<div ng-if="serverError" class="col-lg-12 alert alert-danger">
+                <b>Error!</b> {{ serverMessage }}
+            </div>*@
+            <div class="col-lg-12 alert alert-warning" ng-if="model.Name.length < nameMinLength">
+                The project name is too short.{{ nameMinLength }} symbols atleast.
+            </div>
+            <div class="col-lg-12">
+                <input type="text" ng-model="model.Name" class="form-control" placeholder="Project name" />
+                <br />
+            </div>
+
+            <div class="col-lg-4 pull-left" style="line-height: 38px;">
+                &nbsp; Visibility
+            </div>
+            <div class="btn-group col-lg-8 pull-right">
+                <label class="btn col-lg-6 btn-success" ng-model="model.Visibility" btn-radio="1">Public</label>
+                <label class="btn col-lg-6 btn-success" ng-model="model.Visibility" btn-radio="2">Private</label>
+            </div>
+            <div style="clear:both;"></div>
+            <br />
+            <div class="alert alert-info">The project visibility determines who will be able to see your project. Public means that it is visible to anyone on the internet. Private means that only you, and the people who are part of the project can see it's contents.</div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-default" ng-click="cancel()">Cancel</button>
+        <button class="btn btn-primary" ng-disabled="model.Name.length < nameMinLength" ng-click="create()">Create</button>
+    </div>
+</div>
