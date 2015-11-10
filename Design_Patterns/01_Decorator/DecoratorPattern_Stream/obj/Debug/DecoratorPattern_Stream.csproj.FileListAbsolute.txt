@@ -1,6 +1,0 @@
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Stream\bin\Debug\DecoratorPattern_Stream.exe.config
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Stream\bin\Debug\DecoratorPattern_Stream.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Stream\bin\Debug\DecoratorPattern_Stream.pdb
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Stream\obj\Debug\DecoratorPattern_Stream.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Stream\obj\Debug\DecoratorPattern_Stream.pdb
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\DecoratorPattern_Stream\obj\Debug\DecoratorPattern_Stream.csprojResolveAssemblyReference.cache

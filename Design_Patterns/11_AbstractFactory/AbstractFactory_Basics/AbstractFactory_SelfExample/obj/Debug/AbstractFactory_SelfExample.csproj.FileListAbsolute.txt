@@ -1,5 +1,0 @@
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\11_AbstractFactory\AbstractFactory_Basics\AbstractFactory_SelfExample\bin\Debug\AbstractFactory_SelfExample.exe.config
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\11_AbstractFactory\AbstractFactory_Basics\AbstractFactory_SelfExample\bin\Debug\AbstractFactory_SelfExample.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\11_AbstractFactory\AbstractFactory_Basics\AbstractFactory_SelfExample\bin\Debug\AbstractFactory_SelfExample.pdb
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\11_AbstractFactory\AbstractFactory_Basics\AbstractFactory_SelfExample\obj\Debug\AbstractFactory_SelfExample.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\11_AbstractFactory\AbstractFactory_Basics\AbstractFactory_SelfExample\obj\Debug\AbstractFactory_SelfExample.pdb

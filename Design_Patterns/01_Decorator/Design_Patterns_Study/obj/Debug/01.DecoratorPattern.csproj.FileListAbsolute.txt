@@ -1,9 +1,0 @@
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\Design_Patterns_Study\bin\Debug\Design_Patterns_Study.exe.config
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\Design_Patterns_Study\bin\Debug\Design_Patterns_Study.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\Design_Patterns_Study\bin\Debug\Design_Patterns_Study.pdb
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\Design_Patterns_Study\obj\Debug\01.DecoratorPattern.csprojResolveAssemblyReference.cache
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\Design_Patterns_Study\obj\Debug\Design_Patterns_Study.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\Design_Patterns_Study\obj\Debug\Design_Patterns_Study.pdb
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\Design_Patterns_Study\bin\Debug\Design_Patterns_Study.exe.config
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\Design_Patterns_Study\obj\Debug\Design_Patterns_Study.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\01_Decorator\Design_Patterns_Study\obj\Debug\Design_Patterns_Study.pdb

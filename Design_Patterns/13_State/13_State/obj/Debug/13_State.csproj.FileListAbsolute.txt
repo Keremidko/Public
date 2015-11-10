@@ -1,6 +1,0 @@
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\13_State\13_State\bin\Debug\13_State.exe.config
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\13_State\13_State\obj\Debug\13_State.csprojResolveAssemblyReference.cache
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\13_State\13_State\bin\Debug\13_State.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\13_State\13_State\bin\Debug\13_State.pdb
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\13_State\13_State\obj\Debug\13_State.exe
-C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\13_State\13_State\obj\Debug\13_State.pdb
