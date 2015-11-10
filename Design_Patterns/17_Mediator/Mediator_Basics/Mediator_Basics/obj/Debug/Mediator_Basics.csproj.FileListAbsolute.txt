@@ -4,3 +4,6 @@ C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\1
 C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\17_Mediator\Mediator_Basics\Mediator_Basics\bin\Debug\Mediator_Basics.pdb
 C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\17_Mediator\Mediator_Basics\Mediator_Basics\obj\Debug\Mediator_Basics.exe
 C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\17_Mediator\Mediator_Basics\Mediator_Basics\obj\Debug\Mediator_Basics.pdb
+C:\Users\Shtiliyan\Desktop\git\Public\Design_Patterns\17_Mediator\Mediator_Basics\Mediator_Basics\bin\Debug\Mediator_Basics.exe.config
+C:\Users\Shtiliyan\Desktop\git\Public\Design_Patterns\17_Mediator\Mediator_Basics\Mediator_Basics\obj\Debug\Mediator_Basics.exe
+C:\Users\Shtiliyan\Desktop\git\Public\Design_Patterns\17_Mediator\Mediator_Basics\Mediator_Basics\obj\Debug\Mediator_Basics.pdb

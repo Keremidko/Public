@@ -3,3 +3,6 @@ C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\0
 C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\02_Proxy\ProxyPattern_Basics\ProxyPattern_SpacebookExample\bin\Debug\ProxyPattern_SpacebookExample.pdb
 C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\02_Proxy\ProxyPattern_Basics\ProxyPattern_SpacebookExample\obj\Debug\ProxyPattern_SpacebookExample.exe
 C:\Users\Keremidko\Documents\Visual Studio 2012\Projects\Design_Patterns_Study\02_Proxy\ProxyPattern_Basics\ProxyPattern_SpacebookExample\obj\Debug\ProxyPattern_SpacebookExample.pdb
+C:\Users\Shtiliyan\Desktop\git\Public\Design_Patterns\02_Proxy\ProxyPattern_Basics\ProxyPattern_SpacebookExample\bin\Debug\ProxyPattern_SpacebookExample.exe.config
+C:\Users\Shtiliyan\Desktop\git\Public\Design_Patterns\02_Proxy\ProxyPattern_Basics\ProxyPattern_SpacebookExample\obj\Debug\ProxyPattern_SpacebookExample.exe
+C:\Users\Shtiliyan\Desktop\git\Public\Design_Patterns\02_Proxy\ProxyPattern_Basics\ProxyPattern_SpacebookExample\obj\Debug\ProxyPattern_SpacebookExample.pdb

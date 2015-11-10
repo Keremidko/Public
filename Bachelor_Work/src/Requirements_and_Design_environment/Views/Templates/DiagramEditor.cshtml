@@ -1,0 +1,30 @@
+﻿<div class="no-padding height-fill col-lg-12">
+    @Html.Partial("~/Views/Templates/ToolBox.cshtml")
+    <div id="diagramView" 
+        class="col-lg-11 height-fill"
+        diagrams="openedDiagram.dirtyContent.widgets"
+        ng-controller="diagramController"
+        ng-class="{
+        CursorHand:tool.name=='Hand',
+        CursorZoomIn:tool.name=='ZoomIn',
+        CursorZoomOut:tool.name=='ZoomOut',
+        CursorClassDiagram:tool.name=='ClassDiagram',
+        CursorComment:tool.name=='Comment'}">
+        <div
+            id="diagramContent"
+            class="height-fill"
+            diagram-view>
+            <svg id="vectorContainer" height="100%" width="100%">
+
+            </svg>
+            <class-diagram ng-repeat="diagram in openedDiagram.dirtyContent.widgets | filter:classDiagrams" diagram="diagram">
+            </class-diagram>
+            <comment ng-repeat="comment in openedDiagram.dirtyContent.widgets | filter:comments" comment="comment">
+            </comment>
+            <line points="line.points" line="line" ng-repeat="line in openedDiagram.dirtyContent.widgets | filter:lines"></line>
+            <text text="text" ng-repeat="text in openedDiagram.dirtyContent.widgets | filter:texts"></text>
+            <rde-ellipse model="ellipse" ng-repeat="ellipse in openedDiagram.dirtyContent.widgets | filter:ellipses"></rde-ellipse>
+            <rde-rectangle model="rectangle" ng-repeat="rectangle in openedDiagram.dirtyContent.widgets | filter:rectangles"></rde-rectangle>
+        </div>
+    </div>
+</div>

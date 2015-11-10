@@ -1,0 +1,35 @@
+﻿<svg-wrapper position="diagram.position">
+    <div class="ClassDiagram">
+        <div class="border-bottom">
+            <div 
+                class="editableField ClassDiagramHeading" 
+                contenteditable="true" 
+                ng-model="diagram.title"
+                ng-context-menu="diagramOptions">
+                <b>{{diagram.title}}</b>
+            </div>
+        </div>
+        <div class="border-bottom">
+            <div 
+                class="editableField" 
+                contenteditable="true" 
+                ng-repeat="property in diagram.properties" 
+                ng-model="diagram.properties[$index]"
+                ng-context-menu="memberOptions",
+                ng-context-elem="{type:'prop', index:$index}">
+                {{property}}
+            </div>
+        </div>
+        <div>
+            <div 
+                class="editableField" 
+                contenteditable="true" 
+                ng-repeat="method in diagram.methods" 
+                ng-model="diagram.methods[$index]"
+                ng-context-menu="memberOptions",
+                ng-context-elem="{type:'method', index:$index}">
+                {{method}}
+            </div>
+        </div>
+    </div>
+</svg-wrapper>

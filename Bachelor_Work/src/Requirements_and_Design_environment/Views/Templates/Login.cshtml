@@ -1,0 +1,46 @@
+﻿<div class="container loginPanel">
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-4">
+            <div class="panel panel-default">
+                <div class="panel-heading"><b class="col-lg-offset-1">Log in</b></div>
+                <div class="panel-body">
+
+                    <form class="form-horizontal" ng-controller="AccountController">
+                        <fieldset>
+                            <div class="form-group">
+                                <div ng-if="serverError" class="col-lg-10 col-lg-offset-1 alert alert-danger">
+                                    <b>Error!</b> {{ serverMessage }}
+                                </div>
+                                <div style="clear:both;"></div>
+                                <div class="col-lg-10 col-lg-offset-1">
+                                    <input type="text" class="form-control" ng-model="loginModel.UserName" placeholder="Username" />
+                                </div>
+                                <div class="col-lg-10 col-lg-offset-1 height-1"></div>
+                                <div class="col-lg-10 col-lg-offset-1">
+                                    <input type="password" class="form-control" ng-model="loginModel.Password" placeholder="Password" />
+                                </div>
+                                <div class="col-lg-10 col-lg-offset-1 rememberMePanel">
+
+                                    <div class="pull-right">
+                                        Remember me
+                                        <input ng-model="loginModel.RememberMe" type="checkbox" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-10 col-lg-offset-1 height-2"></div>
+                                <div class="col-lg-10 col-lg-offset-1">
+                                    <button type="button" ng-click ="Login()" class="btn btn-primary col-lg-12">Log in</button>
+                                    <div class="pull-left">
+                                        <a href="" ng-click="GoBack()">Back</a>
+                                    </div>
+                                    <div class="pull-right">
+                                        <a ui-sref="Registration">Register</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
